@@ -9,7 +9,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-cqimdw=4()bpz$o_x$xqm28vq9_2w-v0aru5^rq@n+da$-!a#y"
+SECRET_KEY = "key"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
